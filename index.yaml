@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  my-nginx:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-04-25T19:34:53.488832+05:30"
+    description: Sample nginx application
+    digest: 5848e8739ef3649b0e9d7ee5dbab4b269872ed4f985abdeb930a4cde388ab7ae
+    name: my-nginx
+    urls:
+    - https://github.com/SriPalla/my-helm-charts/releases/download/my-nginx-0.5.0/my-nginx-0.5.0.tgz
+    version: 0.5.0
+generated: "2021-04-25T19:34:53.488843+05:30"
